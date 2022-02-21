@@ -1,0 +1,9 @@
+server->browser: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over browser:
+Data is formatted into json
+and javascript from the server
+is used in creating a new note
+and rerendering it before sending
+the new note to the server
+end note
